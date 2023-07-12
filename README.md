@@ -2,6 +2,9 @@
 
 ---
 
+**Note:** This repository is specific to JavaScript. Please check [ReactJS Interview questions](https://github.com/vipulmane6498/ReactJS-Interview-Questions) for core ReactJS questions.
+
+
 ### Table of Contents
 
 | No. | Questions                                                                                                                                                         |
