@@ -1,6 +1,8 @@
 # JavaScript Interview Questions & Answers
 
 ---
+> Click :star:if you like the project. Pull Request are highly appreciated.
+---
 
 **Note:** This repository is specific to JavaScript. Please check [ReactJS Interview questions](https://github.com/vipulmane6498/ReactJS-Interview-Questions) for core ReactJS questions.
 
